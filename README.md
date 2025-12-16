@@ -14,9 +14,14 @@ A simple Asteroids-style arcade game implemented in Python using Pygame. Pilot a
 Install pygame:
 pip install pygame
 
-## Run
-From the repository root:
-python main.py
+## Run (using venv)
+From the repo root:
+python3 -m venv .venv
+source .venv/bin/activate  # or .venv\Scripts\Activate.ps1 on Windows
+uv run main.py
+deactivate
+
+Want me to commit this change to README.md in jeffeejenson/asteroids?
 
 ## Controls
 - Arrow keys or WASD — move / rotate / thrust (typical controls)
