@@ -16,9 +16,13 @@ pip install pygame
 
 ## Run (using venv)
 From the repo root:
+
 python3 -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\Activate.ps1 on Windows
+
+source .venv/bin/activate  
+
 uv run main.py
+
 deactivate
 
 Want me to commit this change to README.md in jeffeejenson/asteroids?
