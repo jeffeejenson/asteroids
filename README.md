@@ -25,7 +25,6 @@ uv run main.py
 
 deactivate
 
-Want me to commit this change to README.md in jeffeejenson/asteroids?
 
 ## Controls
 - Arrow keys or WASD — move / rotate / thrust (typical controls)
