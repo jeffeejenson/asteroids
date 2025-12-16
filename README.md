@@ -1,4 +1,4 @@
-GitHub Copilot Chat Assistant
+
 
 # Asteroids
 
